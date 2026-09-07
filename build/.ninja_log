@@ -1,5 +1,0 @@
-# ninja log v7
-2	122	1788744250613313461	CMakeFiles/myWindow.dir/src/glad.c.o	d7f295c3202d4e68
-1	356	1788744250612155003	CMakeFiles/myWindow.dir/src/main.cpp.o	490af71fa836c9ad
-3	673	1788744250613680029	CMakeFiles/myWindow.dir/src/stb.cpp.o	422819d682ce3da4
-673	806	1788744251284257205	myWindow	81f7a91b5724c2c9

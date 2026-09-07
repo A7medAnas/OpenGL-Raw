@@ -1,3 +1,0 @@
-/home/a7medanas/programs/programming/Graphics Programing/OpenGL/OpenGL_Raw/build/CMakeFiles/myWindow.dir
-/home/a7medanas/programs/programming/Graphics Programing/OpenGL/OpenGL_Raw/build/CMakeFiles/edit_cache.dir
-/home/a7medanas/programs/programming/Graphics Programing/OpenGL/OpenGL_Raw/build/CMakeFiles/rebuild_cache.dir
