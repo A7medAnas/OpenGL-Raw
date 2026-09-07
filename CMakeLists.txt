@@ -6,6 +6,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 include_directories(include)
 
+link_directories(lib)
+
 set(SOURCES 
     src/main.cpp 
     src/glad.c
